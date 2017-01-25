@@ -1,0 +1,4 @@
+Lets put our websites and things we find that are useful to learning HTML/CSS stuff here:
+
+Websites:
+http://www.w3schools.com/
