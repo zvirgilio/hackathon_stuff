@@ -1,4 +1,7 @@
 Lets put our websites and things we find that are useful to learning HTML/CSS stuff here:
 
 Websites:
+This works well for HTML CSS and javaScript
 http://www.w3schools.com/
+
+I think the Bootstrap project will be one of our most important things because we don't have to make anything pretty
